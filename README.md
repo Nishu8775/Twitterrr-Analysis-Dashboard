@@ -18,3 +18,4 @@ To run the data collection script, you need:
 - Tweepy library (for accessing the Twitter API)
 - Pandas (for data manipulation)
 
+https://github.com/Nishu8775/Twitterrr-Analysis-Dashboard/blob/main/Twitter%20Analysis.png
